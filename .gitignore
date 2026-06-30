@@ -49,3 +49,6 @@ htmlcov/
 # Qiskit specific
 qiskit_settings.conf
 .qiskit/
+
+# Generated figures
+*.png
